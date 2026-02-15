@@ -3,7 +3,7 @@ const {
     Client, GatewayIntentBits, Partials,
     ActionRowBuilder, EmbedBuilder, ButtonBuilder, ButtonStyle
 } = require('discord.js');
-const fs = require('fs');
+require('dotenv').config(); const token = process.env.DISCORD_TOKEN;
 
 // 引入互動處理模組
 const handleInteraction = require('./rpgMod/handleInteraction.js');
