@@ -1,0 +1,16 @@
+{
+    "1292424394957918248": {
+        "name": "you23rtwtd 的商店",
+        "items": {
+            "高麗菜": {
+                "price": 1,
+                "stock": 0
+            },
+            "adventure_ticket": {
+                "price": 150,
+                "stock": 10
+            }
+        },
+        "status": "open"
+    }
+}

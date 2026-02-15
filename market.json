@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "id": "luck", "name": "幸運藥水", "price": 500 },
+    { "id": "adventure_ticket", "name": "冒險入場券", "price": 100 }
+  ]
+}

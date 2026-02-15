@@ -1,0 +1,110 @@
+{
+    "1292424394957918248": {
+        "name": "you23rtwtd",
+        "money": 0,
+        "inventory": {
+            "adventure_ticket": 54,
+            "wooden_chest": 71,
+            "apple": 52,
+            "rabbit_fur": 18,
+            "boar_tusk": 11,
+            "log_oak": 38,
+            "raw_chicken": 2,
+            "golden_goose_feather": 69,
+            "upgrade_stone": 143,
+            "sword_1": {
+                "amount": 1,
+                "level": 2
+            },
+            "dried_root": 25,
+            "cursed_soil": 20,
+            "wild_fur": 15,
+            "bone_fragment": 23,
+            "diamond_ore": 1,
+            "fish_squid": 6,
+            "fish_tuna": 2,
+            "fish_salmon": 1,
+            "zombie_brain": 21,
+            "head_lv10": 1,
+            "log_redwood": 3,
+            "log_birch": 3,
+            "log_spruce": 2
+        },
+        "energy": 320,
+        "hp": -160,
+        "maxHp": 100,
+        "hunger": 0,
+        "level": 18,
+        "exp": 2580,
+        "items": {
+            "木製寶箱": 0
+        },
+        "currentLocation": "🌲 森林",
+        "lastSign": "2026-02-09",
+        "equipments": [
+            {
+                "uuid": "4ed3ee1a",
+                "id": "sword_1",
+                "name": "木劍",
+                "lv": 0,
+                "power": 10
+            },
+            {
+                "uuid": "3f5c2eb2",
+                "id": "sword_1",
+                "name": "木劍",
+                "lv": 0,
+                "power": 10
+            },
+            {
+                "uuid": "fd3449c5",
+                "id": "sword_1",
+                "name": "木劍",
+                "lv": 0,
+                "power": 10
+            },
+            {
+                "uuid": "3964848d",
+                "id": "sword_1",
+                "name": "木劍",
+                "lv": 0,
+                "power": 10
+            }
+        ],
+        "job": "礦工",
+        "workCount": 39,
+        "workLog": [
+            1770616794303,
+            1770616801213,
+            1770619079198,
+            1770619189883,
+            1770619312864,
+            1770619999192,
+            1770620787385,
+            1770620862706,
+            1770621115051,
+            1770655803298,
+            1770657269741,
+            1770657277014,
+            1770657277458,
+            1770657278519,
+            1770657279817,
+            1770657281039,
+            1770657281459,
+            1770657281952,
+            1770657283314
+        ],
+        "location": "廢棄古城"
+    },
+    "1344604607732781086": {
+        "name": "goose_00003",
+        "money": 1000,
+        "inventory": {},
+        "energy": 1000,
+        "hp": 100,
+        "maxHp": 100,
+        "hunger": 20,
+        "level": 1,
+        "exp": 0
+    }
+}
